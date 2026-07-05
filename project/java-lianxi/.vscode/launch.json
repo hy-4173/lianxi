@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DemoApplication",
+            "request": "launch",
+            "mainClass": "com.demo.DemoApplication",
+            "projectName": "java-lianxi_e9835fc6"
+        },
+        {
+            "type": "java",
+            "name": "运行 DemoApplication",
+            "request": "launch",
+            "mainClass": "com.demo.DemoApplication",
+            "projectName": "java-lianxi",
+            "console": "internalConsole"
+        }
+    ]
+}

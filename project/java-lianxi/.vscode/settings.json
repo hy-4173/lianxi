@@ -1,0 +1,14 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Program Files\\Amazon Corretto\\jdk21.0.11_10",
+            "default": true
+        }
+    ],
+    "java.home": "C:\\Program Files\\Amazon Corretto\\jdk21.0.11_10",
+    "editor.formatOnSave": true,
+    "editor.suggestSelection": "first",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}

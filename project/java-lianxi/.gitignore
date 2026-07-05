@@ -1,0 +1,28 @@
+# 编译输出
+out/
+target/
+bin/
+build/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+.classpath
+.project
+*.iml
+.vscode/*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 其他项目的 node_modules（防止误提交）
+node_modules/
+../../picture/
+
+# 日志
+*.log
